@@ -49,12 +49,21 @@
             修改想要商品信息
             查询商品
 
-
 # 4 需要软件
 
-Qt6.2.3
+# 4.1 安装Qt6.2.3
 
-MySQL8.0.30
+Qt Creator11.0.2打开位置：C:\Users\John\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt
+（这只是快捷方式的位置）
+
+# 安装4.2 MySQL8.0.30
+
+安装参考网址：<http://t.csdn.cn/CfBwk>
+
+# 4.3 CMake
+
+# 4.4 运行CMake、使Qt能够正常打开MySQL
+
 
 
 # 5 参考代码：
@@ -62,5 +71,3 @@ MySQL8.0.30
 <https://zhuanlan.zhihu.com/p/609147010?utm_id=0>
 
 <https://blog.csdn.net/sheziqiong/article/details/125544047>
-    
-    
