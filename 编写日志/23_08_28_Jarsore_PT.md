@@ -49,25 +49,18 @@
             修改想要商品信息
             查询商品
 
-Qt6.2.3安装
 
-<https://www.feiniaomy.com/post/13103.html>此链接仅可作为参考。
-
-# 4 代码完善、美化和修饰
-
-
-# 5 需要软件
+# 4 需要软件
 
 Qt6.2.3
-
-Qt Creator()
 
 MySQL8.0.30
 
 
-# 6 参考代码：
+# 5 参考代码：
 
 <https://zhuanlan.zhihu.com/p/609147010?utm_id=0>
 
 <https://blog.csdn.net/sheziqiong/article/details/125544047>
+    
     
