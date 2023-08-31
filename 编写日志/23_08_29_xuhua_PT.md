@@ -9,7 +9,9 @@
 
 在设置应用图标之中：
 
-    如何生成ico文件：<https://www.dute.org/ico-converter>   
+    如何生成ico文件：
+    
+<https://www.dute.org/ico-converter>   
 
 代码仿照着写，还是很好理解的；
 
