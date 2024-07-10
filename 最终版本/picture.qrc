@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>water_black.jpg</file>
+    </qresource>
+</RCC>
